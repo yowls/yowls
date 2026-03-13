@@ -4,7 +4,7 @@
       <br>
       <img src="https://github.com/yowls.png" width="200" style="border-radius: 10px;" alt="yowls avatar" />
       <br><br>
-      <strong>Yowls</strong><br>
+      <strong>yowls</strong><br>
       <code>Cyber Operator</code>
       <br><br>
       <img src="https://img.shields.io/badge/%E2%97%8F%20System_Online-27272a?style=flat-square&color=27272a&labelColor=3f0000"/>
